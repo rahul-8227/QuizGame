@@ -1,0 +1,87 @@
+{
+
+  "questions": [
+    {
+      "question": "SI unit of accelartion is?",
+      "answers": [
+        "m/sec^2",
+        "m/sec",
+        "Newton",
+        "sec"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": " Tomato is a natural source of which acid?",
+      "answers": [
+        "Acetic acid",
+        "Citric acid",
+        "Oxalic acid",
+        "Tartaric acid"
+        
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Light travel fastest in",
+      "answers": [
+        "Diamond",
+        "Air",
+        "Water",
+        "Glass"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The laws of reflection hold good for",
+      "answers": [
+        "Plane mirror only",
+        "Concave mirror only",
+        "Convex mirror only",
+        "All mirrors irrespective of their shape"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": " The poorest conductor of heat among metals is",
+      "answers": [
+        "Copper",
+        "Calcium",
+        "Sodium",
+        "Lead"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the pH range of our body?",
+      "answers": [
+        "7.0-7.8",
+        "7.2-8.0",
+        "7.0-8.4",
+        "7.2-8.4"
+        
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Respiratory structures in the insects are :",
+      "answers": [
+        "Trachea",
+        "Lungs",
+        "Skin",
+        "Gills"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Fuel used in thermal power plants is?",
+      "answers": [
+        "Biomass",
+        "Uranium",
+        "Fossil fuel",
+        "water"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

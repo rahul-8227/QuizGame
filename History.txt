@@ -1,0 +1,92 @@
+{
+
+  "questions": [
+    {
+      "question": "In India, the National Human Rights Commission was established in the year :",
+      "answers": [
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The Atmospheric layer responsible for weather changes :",
+      "answers": [
+        "Stratosphere",
+        "Troposphere",
+        "Ionosphere",
+        "Exosphere"
+        
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The person who was named as Tiger of Mysore :",
+      "answers": [
+        "Tipu Sultan",
+        "Hyder Ali",
+        "Sabdar Ali",
+        "Fadek Hyder"
+        
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Highest temperature is found in India at :",
+      "answers": [
+        "Jaisalmer",
+        "Sri Ganganagar",
+        "Bikaner",
+        "Ajmer"
+        
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The person who established British rule in India :",
+      "answers": [
+        "Duplex",
+        "Mirjafer",
+        "Robert Clive",
+        "Hestings"
+        
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The Supreme Commander of the military in India is :",
+      "answers": [
+        "The Prime Minister",
+        "The Home Minister",
+        "The Defence Minister",
+        "The President"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The main cause of land degradation in Punjab, Haryana and Western Uttar Pradesh is :",
+      "answers": [
+        "Mining",
+        "Over irrigation",
+        "Deforestation",
+        "Over grazing"
+        
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Black soils are common in :",
+      "answers": [
+        "Deccan trap region",
+        "Ganga Valley",
+        "Kashmir Valley",
+        "Northern Plains"
+        
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+
+  "questions": [
+    {
+      "question": "Which key is used to delete programs or files permanently?",
+      "answers": [
+        " Shift + Del",
+        "F5",
+        "Ctrl + Del",
+        "F7"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "F2 key use to change the ________ of file/folder.",
+      "answers": [
+        "Size",
+        "Colour",
+        "Name",
+        "Type"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": " Which one is the secondary memory device ?",
+      "answers": [
+        "CPU",
+        "Floppy Disk",
+        "Mouse",
+        "ALU"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": " Which device is used to control the cursor movement?",
+      "answers": [
+        "Light Pen",
+        "Trackball",
+        "Plotter",
+        "Joystick"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "__________ does works related to exchange of data between the computers.",
+      "answers": [
+        "Sound card",
+        "Network card",
+        "Modem",
+        "Expansion slot"
+        
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does operating system manages ?",
+      "answers": [
+        "Memory",
+        "Cpu",
+        "I/O",
+        "All of the above"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Ctrl, Shift and Alt are called _______ keys.",
+      "answers": [
+        "Modifier",
+        "Function",
+        "Adjustment",
+        "Alphanumeric"
+        
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Junk e-mail is also called ______.",
+      "answers": [
+        "Spool",
+        "Spoof",
+        "Spam",
+        "Sniffer script"
+        
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

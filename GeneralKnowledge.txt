@@ -1,0 +1,89 @@
+{
+
+  "questions": [
+    {
+      "question": "Taj Mahal is located in ________.",
+      "answers": [
+        "Agra",
+        "Lucknow",
+        "Kashmir",
+        "Delhi"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The world smallest country is :",
+      "answers": [
+        "Canada",
+        "Vatican City",
+        "Russia",
+        "Nepal"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The Indian, who holds the pride of beating the computers in mathematical wizard is :",
+      "answers": [
+        "Raja Ramanna",
+        "Ramanujam",
+        "Shakuntala Devi",
+        "Rina Panigrahi"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which crop is sown on the largest area in India?",
+      "answers": [
+        "Wheat",
+        "Rice",
+        "Maize",
+        "Sugarcane"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Who is first prime minister of India :",
+      "answers": [
+        "Bhagat Singh",
+        "Sardar Vallabh bhai patel",
+        "Indira Gandhi",
+        "Pandit Jawarhlal Nehru"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "For which of the following disciplines is Nobel Prize awarded?",
+      "answers": [
+        "Physics and Chemistry",
+        "Physiology or Medicine",
+        "Literature, Peace and Economics",
+        "All of the above"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Giddha is the folk dance of ?",
+      "answers": [
+        "Punjab",
+        "Odisha",
+        "Kerala",
+        "Haryana"
+        
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Martyrs' Day is celebrated every year on ?",
+      "answers": [
+        "25th January",
+        "27th January",
+        "30th January",
+        "29th January"
+        
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

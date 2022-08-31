@@ -1,0 +1,92 @@
+{
+
+  "questions": [
+    {
+      "question": " What is the unit of volume?",
+      "answers": [
+        "Square units",
+        "Cubic units",
+        "No units",
+        "One unit"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The average of first 50 natural numbers is _______.",
+      "answers": [
+        "24",
+        "26.5",
+        "28",
+        "25.5"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Find the median of the given data: 13, 16, 12, 14, 19, 12, 14, 13, 14.",
+      "answers": [
+        "14.5",
+        "14",
+        "17.5",
+        "25.5"
+        
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "A number is greater than 3 but less than 8.\n Also the number is greater than 6 but less than 10. What is the number?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "4"
+        
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "A river flows west to east and on the way turns left and go in a semi-circle round a hillock,\n and then turns left at right-angles. In what direction is the river finally flowing?",
+      "answers": [
+        "North",
+        "West",
+        "South",
+        "East"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The cube root of 1331 is ______ .",
+      "answers": [
+        "11",
+        "13",
+        "19",
+        "17"
+        
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": " What is three fifth of 100 ?",
+      "answers": [
+        "75",
+        "65",
+        "80",
+        "60"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "If David's age is 27 years old in 2011. What was his age in 2003?",
+      "answers": [
+        "24",
+        "19",
+        "18",
+        "20"
+        
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

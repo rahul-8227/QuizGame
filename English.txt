@@ -1,0 +1,89 @@
+{
+
+  "questions": [
+    {
+      "question": "Olivia's place of birth is England, but she lives here now. Which word is a pronoun ?",
+      "answers": [
+        "she",
+        "Olivia",
+        "lives",
+        "England"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Prepositions link a _______ to another word or sentence part.",
+      "answers": [
+        "Verb",
+        "Noun",
+        "Adjective",
+        "Pronoun"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "I've got _______ money. Which term does not fit?",
+      "answers": [
+        "a little",
+        "no",
+        "some",
+        "a"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The teacher demanded that John should _____ harder.",
+      "answers": [
+        "work up",
+        "worked",
+        "work",
+        "works"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Anny had to pay everything because as usual,Peter __________ his wallet at home.",
+      "answers": [
+        "had left",
+        "was leaving",
+        "left",
+        "leave"
+        
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "A _______ of flowers.",
+      "answers": [
+        "pair",
+        "galaxy",
+        "range",
+        "bunch"
+        
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The phone ______ can you answer it, please?",
+      "answers": [
+        "is ringing",
+        "rings",
+        "ring",
+        "was ring"
+        
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "You can keep my iPod if you like. I _____ it any more.",
+      "answers": [
+        "didn't use",
+        "doesn't use",
+        "don't use",
+        "am not using"
+        
+      ],
+      "correct_answer": 2
+    }
+  ]
+}
